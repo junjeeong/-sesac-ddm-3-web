@@ -2,10 +2,18 @@ package ch8.p3;
 
 public class Main {
     public static void main(String[] args) {
-        CreditCardPayment card = new CreditCardPayment();
-        CashPayment cash = new CashPayment();
+        Payment creditCard = new CreditCardPayment();
+        Payment cash = new CashPayment();
 
-        card.processPayment(50000);
-        cash.processPayment(30000);
+        double amount1 = 50000;
+        if (creditCard.validateAmount(amount1)) {
+            creditCard.processPayment(amount1);
+            System.out.println(); // 줄 바꿈
+        }
+
+        double amount2 = 30000;
+        if (cash.validateAmount(amount2)) {
+            cash.processPayment(amount2);
+        }
     }
 }

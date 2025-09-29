@@ -1,6 +1,6 @@
 package ch8.p5;
 
-public class Dragon implements Movable, Flyable, Attackable, MagicAttackable{
+public class Dragon implements Flyable, MagicAttackable{
     @Override
     public void move() {
         System.out.println("드래곤이 이동합니다.");
