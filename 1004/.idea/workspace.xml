@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50cbad77-eda4-4f2a-92b3-973d64c8dbb8" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../1003/src/practice/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch15_Collection/practice/p1/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch15_Collection/practice/p2/MarathonRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0929/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0929/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1002/src/ShoppingMallV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1002/src/ShoppingMallV1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="33a4jEGuH7uLvvk4RGkAHrVIImU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/java/1004/src/Main.java",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.MarathonRunner.executor": "Run",
+    "애플리케이션.Practice1.executor": "Run",
+    "애플리케이션.Practice2.executor": "Run",
+    "애플리케이션.Practice3.executor": "Run",
+    "애플리케이션.Practice4.executor": "Run",
+    "애플리케이션.Practice5.executor": "Debug",
+    "애플리케이션.Practice6.executor": "Run",
+    "애플리케이션.Practice7.executor": "Run",
+    "애플리케이션.RaceConditionExample.executor": "Run",
+    "애플리케이션.RemoveDuplicates.executor": "Run",
+    "애플리케이션.ValidParentheses.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.Practice7">
+    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16_Lamda_Stream.Practice3" />
+      <module name="1004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16_Lamda_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16_Lamda_Stream.Practice4" />
+      <module name="1004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16_Lamda_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16_Lamda_Stream.Practice5" />
+      <module name="1004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16_Lamda_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16_Lamda_Stream.Practice6" />
+      <module name="1004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16_Lamda_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16_Lamda_Stream.Practice7" />
+      <module name="1004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16_Lamda_Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Practice7" />
+        <item itemvalue="애플리케이션.Practice6" />
+        <item itemvalue="애플리케이션.Practice5" />
+        <item itemvalue="애플리케이션.Practice4" />
+        <item itemvalue="애플리케이션.Practice3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="50cbad77-eda4-4f2a-92b3-973d64c8dbb8" name="변경" comment="" />
+      <created>1759541982678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759541982678</updated>
+      <workItem from="1759541983668" duration="9681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Ch16_Lamda_Stream/Practice1.java</url>
+          <line>6</line>
+          <properties class="Ch16_Lamda_Stream.Practice1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
